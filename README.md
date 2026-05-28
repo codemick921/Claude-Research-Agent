@@ -198,8 +198,7 @@ often, or switch to a cheaper model (see Customising).
 
 ## License
 
-MIT — see [`LICENSE`](LICENSE). Fill in your name and year, or swap in a different license
-before publishing.
+MIT — see [`LICENSE`]LICENSE.md.
 
 > Inspired by the "personal chief of staff" knowledge-system idea, rebuilt to run entirely on
 > Claude Code and local Markdown.
